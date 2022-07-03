@@ -1,8 +1,6 @@
 
 * working web hooks
 * exception handling
-* refactor toJSON() functions
-* refactor mapper and parser name. Pick one!!!
 * websocket doesn't send notifications.
 
 containers
