@@ -1,0 +1,14 @@
+
+* working web hooks
+* exception handling
+* refactor toJSON() functions
+* refactor mapper and parser name. Pick one!!!
+* websocket doesn't send notifications.
+
+containers
+single docker-compose
+tests
+implementation of proper dependency injection library
+health checks
+ci/cd
+deployment on k8s
