@@ -9,6 +9,7 @@
   - sqlalchemy
   - psycopg2
 - Run all 3 services using '''python main.py'''
+- Run src/basic.html
 ## Architecture
 
 ![architecture](https://github.com/HuseyinUtkuASLAN/code-challange/blob/main/emailFlow.drawio.png)
